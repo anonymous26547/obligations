@@ -26,6 +26,7 @@ To build the project:
 To run the project, provide the following inputs:
 
 1 - ABox: RDF/Turtle file containing instances of the OCM ontology.
+
 2 - Query as one of the following concepts:
   - `ENTITY`
   - `ACTION`
@@ -33,7 +34,8 @@ To run the project, provide the following inputs:
   - `EVENT_STATE`
   - `TEMPORAL_ACTION_STATE`
   - `REGULATED_ACTION_STATE`
-  - `OBLIGATION_STATE`  
+  - `OBLIGATION_STATE`
+  - 
 3- DateTime (optional): a specific value following the xsd:dateTime format. 
 In case no dateTime is included in the Abox or the input query, the current dateTime will be used.
 
