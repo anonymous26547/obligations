@@ -1,7 +1,7 @@
 # The OWL Obligation State Manager
 
 This project is implemented in **Java** using the **OWL API** and **Pellet** as the reasoner.  
-It allows reasoning over instances of the **OCM ontology** and querying specific states of concepts at a given time.
+It allows reasoning over instances of the **Obligation Compliance Model Ontotlogy** and querying specific states of concepts at a given time.
 
 ## Features
 - Reasoning over an ABox containing instances of the OCM ontology.  
