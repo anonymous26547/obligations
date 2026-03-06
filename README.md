@@ -35,7 +35,7 @@ To run the project, provide the following inputs:
   - `TEMPORAL_ACTION_STATE`
   - `REGULATED_ACTION_STATE`
   - `OBLIGATION_STATE`
-  - 
+    
 3- DateTime (optional): a specific value following the xsd:dateTime format. 
 In case no dateTime is included in the Abox or the input query, the current dateTime will be used.
 
