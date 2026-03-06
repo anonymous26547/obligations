@@ -21,8 +21,7 @@ It allows reasoning over instances of the **OCM ontology** and querying specific
 
 To build the project:
 
-```bash
-mvn clean install´´´
+```mvn clean install
 
 To run the project, provide the following inputs:
 
@@ -38,4 +37,5 @@ To run the project, provide the following inputs:
 3- DateTime – A specific value following the xsd:dateTime format.
 
 **Example Command:**
-```java -jar target/your-project-name.jar <abox-file> <query> <dateTime>```
+
+```java -jar target/your-project-name.jar <abox-file> <query> <dateTime>
